@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EsJkordIfauHFzarFxap6abGP5jIurz7BVVfiAVMxOY=",
+  "Source": "MockDbContextForUnitTesting.Api",
+  "BasePath": "_content/MockDbContextForUnitTesting.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

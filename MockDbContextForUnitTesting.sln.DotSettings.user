@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\alexandru.maries\AppData\Local\Temp\JetBrains\ReSharperPlatformVs17\vAny_0591915b\CoverageData\_MockDbContextForUnitTesting.-1010102264\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1869c9d3_002D9c51_002D4e49_002Dbe17_002D4f0f531dcb64/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetUserById #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=903a25e4_002D9d61_002D44b4_002D88b2_002D245cbb6dd4df/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUserById #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F108B4FC-6E0E-450D-97E0-0ACFA5AE1134::net6.0::MockDbContextForUnitTesting.Tests.UserRepositoryTest.GetUserById&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9064484c_002D9c87_002D49c4_002Daf0f_002D2ac718f5492b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUserById" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F108B4FC-6E0E-450D-97E0-0ACFA5AE1134::net6.0::MockDbContextForUnitTesting.Tests.UserRepositoryTest.GetUserById&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

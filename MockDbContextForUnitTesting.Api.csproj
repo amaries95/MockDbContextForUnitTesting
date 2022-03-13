@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="MockDbContextForUnitTesting.Data\**" />
+    <Compile Remove="MockDbContextForUnitTesting.Domain\**" />
+    <Content Remove="MockDbContextForUnitTesting.Data\**" />
+    <Content Remove="MockDbContextForUnitTesting.Domain\**" />
+    <EmbeddedResource Remove="MockDbContextForUnitTesting.Data\**" />
+    <EmbeddedResource Remove="MockDbContextForUnitTesting.Domain\**" />
+    <None Remove="MockDbContextForUnitTesting.Data\**" />
+    <None Remove="MockDbContextForUnitTesting.Domain\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="MockDbContextForUnitTesting.Data\MockDbContextForUnitTesting.Data.csproj" />
+  </ItemGroup>
+
+</Project>
